@@ -1,3 +1,9 @@
-well , you are going to use us now
+Well you are going to use our service now 
 
-its working simple and easy just upload it with your own webhost domain or use xmapp .
+What is it ??
+
+its for uploading images any kind such as gif , jpg etc etc 
+
+its open for you to add or correct any errors on it
+
+IF YOU ARE NOBEL PEOPLE AND HAVE FREE TIME YOU WOULD ADD THINGS TO IMPROVE OUR SERVICE 
