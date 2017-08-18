@@ -40,10 +40,7 @@ browse:
 
 }
 
-           if ($_FILES['upfile']['size'] > 1000000) {
-        throw new RuntimeException('Exceeded filesize limit.');
 
-      }
 
             
            
