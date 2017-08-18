@@ -5,7 +5,7 @@
        </body>
 <nav><a href="gallery.php">gallery</a></nav>
 
-<h3> <img src="/images/logo.png"> </h3>
+
 
 
 
@@ -13,7 +13,7 @@
 
 <!-- /stylesheet -->
 
-<link rel="shortcut icon" href="favicon.ico">
+
 <form action="upload.php" method="post" enctype="multipart/form-data">
 browse:
 <input type="file" name="image"><br/><br/>
